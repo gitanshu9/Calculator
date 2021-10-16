@@ -1,6 +1,6 @@
-package calculator;
+package main.java.calculator;
 
-class StringCalculator {
+ public class StringCalculator {
 
     public int add(String input) {
         return 0;

@@ -1,8 +1,10 @@
-package calculator;
+package test.java.calculator;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
+
+import main.java.calculator.*;
 
 class StringCalculatorShould {
 
